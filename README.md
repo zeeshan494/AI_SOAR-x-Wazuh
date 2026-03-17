@@ -26,7 +26,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/soar-engine.git
+git clone https://github.com/zeeshan494/AI_SOAR-x-Wazuh.git
 cd soar-engine
 
 Create a virtual environment:
